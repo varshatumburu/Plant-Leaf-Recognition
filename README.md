@@ -17,4 +17,4 @@ Make sure to have python installed before going with these commands. To install 
 Run the below command to run the application on your localhost:
 ``` streamlit run app.py ```
 
-You can find some working model images and a video demo in this [presentation](https://docs.google.com/presentation/d/1LFptaFhFhMU7EncDJyC3v4Mn6IiaE8ncbNlbWKRip-w/edit#slide=id.gd82b0d79b8_1_5). For more info, feel free to go through my [report](https://docs.google.com/document/d/1kIrIsdWdtzW4BaWf0KIx4pynCHSgu2STvnH3MrIfkbk/edit#).
+You can find some working model images and a video demo in this [presentation](https://docs.google.com/presentation/d/1LFptaFhFhMU7EncDJyC3v4Mn6IiaE8ncbNlbWKRip-w/edit#slide=id.gd82b0d79b8_1_5). To gain more insight, feel free to go through my [project report](https://docs.google.com/document/d/1kIrIsdWdtzW4BaWf0KIx4pynCHSgu2STvnH3MrIfkbk/edit#).
